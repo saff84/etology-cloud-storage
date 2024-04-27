@@ -16,7 +16,7 @@ function Header() {
         <Link
           to="/"
         >
-          bookingCloud
+          MyCloud
         </Link>
       </div>
       { currentStorageUser
